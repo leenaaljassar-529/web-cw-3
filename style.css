@@ -1,0 +1,40 @@
+body {
+  direction: rtl;
+}
+h1 {
+  color: lightsteelblue;
+}
+img {
+  display: block;
+}
+ul {
+  list-style: none;
+  display: inline-block;
+}
+h3 {
+  display: inline-block;
+}
+li {
+  display: inline-block;
+}
+.red {
+  background-color: tomato;
+}
+
+.blue {
+  background-color: lightskyblue;
+}
+.green {
+  background-color: mediumseagreen;
+}
+h1 {
+  text-align: center;
+}
+img {
+  width: 100px;
+}
+table,
+th,
+td {
+  border: 1px solid darkslategray;
+}
